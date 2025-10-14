@@ -16,5 +16,8 @@ https://github.com/JUJONOGI/S25---EA2.-Actividad---Pilas-Stack-.git
 3.Abre una terminal o consola en la carpeta donde se encuentra el archivo Main.java.
 javac Main.java
 
+🛠️ Ejecución del programa
+
 4.Compila el programa con el siguiente comando:
   java Main
+<img width="1760" height="1013" alt="image" src="https://github.com/user-attachments/assets/94f0e707-a9d0-4a42-8af2-6d25c2bc409b" />
