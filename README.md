@@ -21,3 +21,5 @@ javac Main.java
 4.Compila el programa con el siguiente comando:
   java Main
 <img width="1760" height="1013" alt="image" src="https://github.com/user-attachments/assets/94f0e707-a9d0-4a42-8af2-6d25c2bc409b" />
+
+presentado por: Juan José Noreña Giraldo
