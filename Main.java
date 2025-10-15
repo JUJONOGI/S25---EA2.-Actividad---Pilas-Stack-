@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-// Pila genérica implementada manualmente
+// Pila basica
 class MyStack<T> {
     private Node<T> top;
 
-    // Clase interna para los nodos
+    // Clase interna para manejar los nodos
     private static class Node<T> {
         T data;
         Node<T> next;
@@ -41,7 +41,7 @@ class MyStack<T> {
     }
 }
 
-// Clase principal con lógica del editor
+// Clase principal con la lógica del editor de texto
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
